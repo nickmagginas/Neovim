@@ -1,0 +1,6 @@
+{
+	"diagnostic.displayByAle": true,
+	"python.jediPath": "/home/l0calhoe/.local/lib/python3.8/site-packages",
+	"python.terminal.activateEnvironment": true,
+	"python.venvFolders": ["dev"]
+}
